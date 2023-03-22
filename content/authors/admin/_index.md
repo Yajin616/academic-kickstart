@@ -18,8 +18,8 @@ role: Master Degree Candidate of Biology and Medicine
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Ocean University of China
+    url: http://www.ouc.edu.cn/main.htm
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
