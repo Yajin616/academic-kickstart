@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Yajin Xu 徐雅进
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Yajin
+last_name: Xu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master Degree Candidate of Biology and Medicine
 
 # Organizations/Affiliations to show in About widget
 organizations:
